@@ -28,7 +28,7 @@
 
 ## 🚀 Installation
 
-1. Download the latest installer from the [Releases](https://github.com/nicloay/ReportmanAI/releases) page.
+1. Download the latest installer from the [Releases](https://github.com/ReportmanAIDesktop/releases) page.
 2. Run the installer and follow the on-screen instructions.
 3. Launch **Reportman AI** and connect to your database.
 
@@ -36,7 +36,7 @@
 
 ## 🌐 Website
 
-[https://ai.reportman.ai](https://ai.reportman.ai)
+[https://ai.reportman.es](https://ai.reportman.es)
 
 ---
 
