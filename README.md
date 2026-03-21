@@ -67,8 +67,8 @@ graph TB
     end
 
     subgraph Security["🔐 SECURITY & GOVERNANCE"]
-        Schema["Schema Manager<br/>20 tables max<br/>per area"]
-        Audit["Audit Logs<br/>OpenAI JSON<br/>Format"]
+        Schema["Schema Manager"]
+        Audit["Audit Logs"]
         Access["Access Control<br/>Email-based<br/>Permissions"]
     end
 
